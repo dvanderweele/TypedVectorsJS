@@ -1,0 +1,17 @@
+{
+  "name": "typedvectorsjs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of Vector Data Structures, inspired by C++ std::vector.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests",
+    "benchmark": "node benchmarks"
+  },
+  "keywords": [],
+  "author": "Dave VanderWeele",
+  "license": "ISC",
+  "devDependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
